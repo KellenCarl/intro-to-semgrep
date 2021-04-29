@@ -13,6 +13,8 @@ my_eval(some_var);
 // Match a hard-coded string
 // ruleid:juice-shop-eval
 my_eval("ls");
+my_eval("ls");
+
 
 // Can be part of a conditional statement
 // ruleid:juice-shop-eval
